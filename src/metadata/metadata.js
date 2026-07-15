@@ -1,13 +1,13 @@
 module.exports = {
   name: 'Dimah Sneas',
   title: 'Software Engineer',
-  baseUrl: 'https://sneas.github.io/cv/',
+  baseUrl: 'https://sneas.github.io/cv-nederlands/',
   facts: {
-    Residence: '<a href="https://goo.gl/maps/3JZUv4LVbG1bmtwN9"><i class="fa fa-home fact-icon"></i>Weesp, NL</a>',
+    Woonplaats: '<a href="https://goo.gl/maps/3JZUv4LVbG1bmtwN9"><i class="fa fa-home fact-icon"></i>Weesp, NL</a>',
     Website: '<a href="https://sneas.io"><i class="fa fa-globe fact-icon"></i>sneas.io</a>',
     LinkedIn: '<a href="https://www.linkedin.com/in/sneas"><i class="fab fa-linkedin fact-icon"></i>sneas</a>',
     GitHub: '<a href="https://github.com/sneas"><i class="fab fa-github fact-icon"></i>sneas</a>',
-    Email: '<a href="mailto:d@sneas.io"><i class="fa fa-envelope fact-icon"></i>d@sneas.io</a>',
+    'E-mail': '<a href="mailto:d@sneas.io"><i class="fa fa-envelope fact-icon"></i>d@sneas.io</a>',
   },
   skills: [
     ['TypeScript', 100],
@@ -31,31 +31,31 @@ module.exports = {
     {
       company: 'Vocably',
       location: 'Weesp, NL',
-      title: 'Founder, Software Engineer',
-      period: 'Nov 2021 - Present',
-      duration: '5 years',
+      title: 'Oprichter, Software Engineer',
+      period: 'nov 2021 - heden',
+      duration: '5 jaar',
       skills: ['AWS', 'GCP', 'Terraform', 'NodeJS', 'React Native', 'Angular', 'OAuth', 'Browser Extensions', 'TypeScript'],
       contents: `
-As the only founder and software engineer of an [open-source language-learning platform](https://github.com/vocably/getvocably), I am fully responsible for the entire product lifecycle. From ideation to revenue generation including customer support, marketing, and GDPR compliance. The platform is growing slowly, but steadily without much babysitting on my side. The platform includes:
+Als enige oprichter en software engineer van een [open-source taalleerplatform](https://github.com/vocably/getvocably) ben ik volledig verantwoordelijk voor de gehele productlevenscyclus. Van idee tot omzetgeneratie, inclusief klantenondersteuning, marketing en AVG-naleving. Het platform groeit langzaam maar gestaag, zonder veel toezicht van mijn kant. Het platform omvat:
 
-- AWS/GCP cost-optimized infrastructure that is running AI prompts and caching the results 
-- iOS and Android apps created with React Native
-- Web app created with Angular
-- Browser extension created with Web Components
-- Thousands of SEO-friendly landing pages created with Vanilla TypeScript
+- Kostengeoptimaliseerde AWS/GCP-infrastructuur die AI-prompts uitvoert en de resultaten cachet
+- iOS- en Android-apps gebouwd met React Native
+- Webapp gebouwd met Angular
+- Browserextensie gebouwd met Web Components
+- Duizenden SEO-vriendelijke landingspagina's gebouwd met Vanilla TypeScript
 
-Users [love](https://docs.google.com/spreadsheets/d/15CfNa_Lp1HO5oZDPk4dofJP9cIJexlrnOXvvZ5dcaNo/edit?gid=0#gid=0) this product, and 25% of its growth is attributed to word of mouth.
+Gebruikers [zijn dol op](https://docs.google.com/spreadsheets/d/15CfNa_Lp1HO5oZDPk4dofJP9cIJexlrnOXvvZ5dcaNo/edit?gid=0#gid=0) dit product, en 25% van de groei is toe te schrijven aan mond-tot-mondreclame.
 `
     },
     {
       company: 'Air France/KLM',
       location: 'Amstelveen, NL',
       title: 'Software Engineer, Contract',
-      period: 'Nov 2022 - Nov 2024',
-      duration: '2 years',
+      period: 'nov 2022 - nov 2024',
+      duration: '2 jaar',
       skills: ['NodeJS', 'TypeScript', 'CI/CD', 'GitHub Actions', 'Kubernetes', 'Angular', 'A/B Testing'],
       contents: `
- A software/DevOps engineer for Air France and KLM. If you've purchased tickets with KLM or Air France since 2022, you've encountered my code. The system I maintained (as part of a team, of course) generates approximately €1 billion each month.
+Software-/DevOps-engineer voor Air France en KLM. Als je sinds 2022 tickets bij KLM of Air France hebt gekocht, ben je mijn code tegengekomen. Het systeem dat ik (uiteraard als onderdeel van een team) onderhield, genereert ongeveer €1 miljard per maand.
 `,
       review: {
         file: 'klm-transversal.png',
@@ -66,28 +66,28 @@ Users [love](https://docs.google.com/spreadsheets/d/15CfNa_Lp1HO5oZDPk4dofJP9cIJ
       company: 'DAZN',
       location: 'Amsterdam, NL',
       title: 'Platform Engineer',
-      period: 'Jul 2019 – Jan 2021',
-      duration: '1.5 years',
+      period: 'jul 2019 – jan 2021',
+      duration: '1,5 jaar',
       skills: ['AWS', 'Terraform', 'NodeJS', 'Next.JS', 'GraphQL', 'React', 'Mobx', 'Redux', 'Tailwind', 'Webpack', 'Jest', 'Storybook'],
       review: {
         file: 'dazn.png',
         author: 'Cirpo Cinelly, Engineering Manager',
       },
       contents: `
-DX engineer for [DAZN](https://dazn.com) - a leading sports streaming platform.
+DX-engineer voor [DAZN](https://dazn.com) – een toonaangevend sportstreamingplatform.
 `,
     },
     {
       company: 'KLM Royal Dutch Airlines',
       location: 'Schiphol, NL',
       title: 'Senior Frontend Developer, Contract',
-      period: 'Feb 2017 – Jun 2019',
-      duration: '2.5 years',
+      period: 'feb 2017 – jun 2019',
+      duration: '2,5 jaar',
       skills: ['Angular', 'Ionic', 'RxJS', 'NgRx', 'TypeScript', 'SASS', 'Webpack', 'Jest'],
       contents: `
-Bootstrapped, maintained, and passed over to another team an internal mobile app.
+Een interne mobiele app opgezet, onderhouden en overgedragen aan een ander team.
 
-My users (KLM mechanics at Schiphol) loved the app, and two of my managers referred me for another contract between 2022 and 2024 (see above).
+Mijn gebruikers (KLM-monteurs op Schiphol) waren enthousiast over de app, en twee van mijn managers hebben mij aanbevolen voor een nieuw contract tussen 2022 en 2024 (zie hierboven).
 `,
       review: {
         file: 'klm.png',
@@ -96,13 +96,13 @@ My users (KLM mechanics at Schiphol) loved the app, and two of my managers refer
     },
     {
       company: 'upwork.com',
-      location: 'Mountain View, USA',
+      location: 'Mountain View, VS',
       title: 'Senior Frontend Developer, Contract',
-      period: 'Oct 2012 – Jun 2014',
-      duration: '1.8 years',
+      period: 'okt 2012 – jun 2014',
+      duration: '1,8 jaar',
       skills: ['Javascript', 'jQuery', 'qUnit', 'Grunt', 'Selenium', 'Compass/SASS', 'PHP', 'Zend', 'Postgres'],
       contents: `
-I helped the biggest freelance marketplace, [Upwork](https://www.upwork.com/), to build and perfect the Job Posting part of their website.
+Ik heb het grootste freelanceplatform, [Upwork](https://www.upwork.com/), geholpen bij het bouwen en perfectioneren van het Job Posting-gedeelte van hun website.
 `,
       review: {
         file: 'upwork.png',
