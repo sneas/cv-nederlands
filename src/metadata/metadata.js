@@ -36,15 +36,13 @@ module.exports = {
       duration: '5 jaar',
       skills: ['AWS', 'GCP', 'Terraform', 'NodeJS', 'React Native', 'Angular', 'OAuth', 'Browser Extensions', 'TypeScript'],
       contents: `
-Als enige oprichter en software engineer van een [open-source taalleerplatform](https://github.com/vocably/getvocably) ben ik volledig verantwoordelijk voor de gehele productlevenscyclus. Van idee tot omzetgeneratie, inclusief klantenondersteuning, marketing en AVG-naleving. Het platform groeit langzaam maar gestaag, zonder veel toezicht van mijn kant. Het platform omvat:
+Als enige oprichter en software engineer van een [open-source taalleerplatform](https://github.com/vocably/getvocably) ben ik volledig verantwoordelijk voor de gehele productlevenscyclus. Van idee tot omzetgeneratie, inclusief klantenondersteuning, marketing en AVG-naleving. Het platform omvat:
 
 - Kostengeoptimaliseerde AWS/GCP-infrastructuur die AI-prompts uitvoert en de resultaten cachet
 - iOS- en Android-apps gebouwd met React Native
 - Webapp gebouwd met Angular
 - Browserextensie gebouwd met Web Components
 - Duizenden SEO-vriendelijke landingspagina's gebouwd met Vanilla TypeScript
-
-Gebruikers [zijn dol op](https://docs.google.com/spreadsheets/d/15CfNa_Lp1HO5oZDPk4dofJP9cIJexlrnOXvvZ5dcaNo/edit?gid=0#gid=0) dit product, en 25% van de groei is toe te schrijven aan mond-tot-mondreclame.
 `
     },
     {
