@@ -1,6 +1,6 @@
 module.exports = {
-  name: 'Dimah Sneas',
-  title: 'Software Engineer',
+  name: 'Dima Sneas',
+  title: 'Full-stack ontwikkelaar',
   baseUrl: 'https://sneas.github.io/cv-nederlands/',
   facts: {
     Woonplaats: '<a href="https://goo.gl/maps/3JZUv4LVbG1bmtwN9"><i class="fa fa-home fact-icon"></i>Weesp, NL</a>',
@@ -32,7 +32,7 @@ module.exports = {
     {
       company: 'Vocably',
       location: 'Weesp, NL',
-      title: 'Oprichter, Software Engineer',
+      title: 'Oprichter, Senior full-stack ontwikkelaar',
       period: 'nov 2021 - heden',
       duration: '5 jaar',
       skills: ['AWS', 'GCP', 'Terraform', 'NodeJS', 'React Native', 'Angular', 'OAuth', 'Browser Extensions', 'TypeScript'],
@@ -51,7 +51,7 @@ Gebruikers [zijn dol op](https://docs.google.com/spreadsheets/d/15CfNa_Lp1HO5oZD
     {
       company: 'Air France/KLM',
       location: 'Amstelveen, NL',
-      title: 'Software Engineer, Contract',
+      title: 'Senior full-stack ontwikkelaar, Contract',
       period: 'nov 2022 - nov 2024',
       duration: '2 jaar',
       skills: ['NodeJS', 'TypeScript', 'CI/CD', 'GitHub Actions', 'Kubernetes', 'Angular', 'A/B Testing'],
@@ -66,7 +66,7 @@ Software-/DevOps-engineer voor Air France en KLM. Als je sinds 2022 tickets bij 
     {
       company: 'DAZN',
       location: 'Amsterdam, NL',
-      title: 'Platform Engineer',
+      title: 'Full-stack ontwikkelaar',
       period: 'jul 2019 – jan 2021',
       duration: '1,5 jaar',
       skills: ['AWS', 'Terraform', 'NodeJS', 'Next.JS', 'GraphQL', 'React', 'Mobx', 'Redux', 'Tailwind', 'Webpack', 'Jest', 'Storybook'],
@@ -81,7 +81,7 @@ DX-engineer voor [DAZN](https://dazn.com) – een toonaangevend sportstreamingpl
     {
       company: 'KLM Royal Dutch Airlines',
       location: 'Schiphol, NL',
-      title: 'Senior Frontend Developer, Contract',
+      title: 'Senior frontend ontwikkelaar, Contract',
       period: 'feb 2017 – jun 2019',
       duration: '2,5 jaar',
       skills: ['Angular', 'Ionic', 'RxJS', 'NgRx', 'TypeScript', 'SASS', 'Webpack', 'Jest'],
@@ -98,7 +98,7 @@ Mijn gebruikers (KLM-monteurs op Schiphol) waren enthousiast over de app, en twe
     {
       company: 'upwork.com',
       location: 'Mountain View, VS',
-      title: 'Senior Frontend Developer, Contract',
+      title: 'Senior frontend ontwikkelaar, Contract',
       period: 'okt 2012 – jun 2014',
       duration: '1,8 jaar',
       skills: ['Javascript', 'jQuery', 'qUnit', 'Grunt', 'Selenium', 'Compass/SASS', 'PHP', 'Zend', 'Postgres'],
